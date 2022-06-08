@@ -1,0 +1,6 @@
+﻿  Project2.cpp
+C:\Users\Nafeel Sohail\source\repos\DSA PROJECT 2\Project2.cpp(46,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nafeel Sohail\source\repos\DSA PROJECT 2\Project2.cpp(335,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nafeel Sohail\source\repos\DSA PROJECT 2\Project2.cpp(339,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nafeel Sohail\source\repos\DSA PROJECT 2\Project2.cpp(463,24): warning C4390: ';': empty controlled statement found; is this the intent?
+  DSA PROJECT 2.vcxproj -> C:\Users\Nafeel Sohail\source\repos\DSA PROJECT 2\Debug\DSA PROJECT 2.exe
